@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import { AiOutlineTwitter, AiOutlineInstagram, AiOutlineBehance } from 'react-icons/Ai';
+import { AiOutlineTwitter, AiOutlineInstagram, AiOutlineBehance } from 'react-icons/ai';
 
 export default function Home() {
   return (
