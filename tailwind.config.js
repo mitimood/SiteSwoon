@@ -12,6 +12,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'chessy': "url('/chessy.svg')",
+      },
       fontFamily: {
         'press-start': ['"Press Start 2P"', 'cursive'],
         'alegreya-sans': ['"Alegreya Sans"'],

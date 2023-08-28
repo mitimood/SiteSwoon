@@ -4,8 +4,7 @@ import { AiOutlineTwitter, AiOutlineInstagram, AiOutlineBehance } from 'react-ic
 
 export default function Home() {
   return (
-    <main className="bg-[url('/bg.svg')] flex min-h-screen flex-col items-center justify-center p-10">
-      <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <main className="bg-[url('/chessy.svg')] flex min-h-screen flex-col items-center justify-center p-10">
       <div className="card w-96">
         <figure className="rounded-full	" >
           <img className=" w-36" src="Swoon_logo.png" alt="swoon_logo" />
