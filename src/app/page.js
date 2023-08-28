@@ -10,16 +10,16 @@ export default function Home() {
           <img className=" w-36" src="Swoon_logo.png" alt="swoon_logo" />
           </figure>
         <div className="card-body items-center text-center">
-          <h1 className="card-title pb-7 text-6xl tracking-wider	 font-alegreya-sans">S W O O N</h1>
-          <p className='font-alegreya leading-7 tracking-widest	'>Hi, I'm Swoon I do audiovisual work!<br/>
+          <h1 className="card-title pb-7 text-6xl tracking-wider text-white font-alegreya-sans">S W O O N</h1>
+          <p className='font-alegreya leading-7 tracking-widest	text-white'>Hi, I'm Swoon I do audiovisual work!<br/>
 If you are interested or have any questions, please contact me at<br/>
 DM Instagram: <kbd className="kbd kbd-sm">Swoon.jpg</kbd><br/>
 Discord: <kbd className="kbd kbd-sm">Suoon</kbd></p>
         </div>
       </div>
-      <div className="flex flex-col">
+      <div className="flex flex-col items-center">
         <Link href='/animations'>
-          <button  className="btn btn-wide m-2">Animations </button>
+          <button  className="btn btn-wide  m-2">Animations </button>
         </Link>
         <Link href='/art'>
          <button className="btn btn-wide	m-2">Art</button>
@@ -27,7 +27,7 @@ Discord: <kbd className="kbd kbd-sm">Suoon</kbd></p>
         <Link href='/3d'>
          <button className="btn btn-wide	m-2">3D</button>
         </Link>
-        <span class="h-1 w-full bg-slate-700 lg:w-3/3 mt-10"></span>
+        <span class="h-1 w-80 bg-slate-700 lg:w-3/3 mt-10"></span>
 
       	<div className='flex flex-row items-center space-x-4 justify-center pt-20'>
           <Link href='https://twitter.com/Swoon476'>
