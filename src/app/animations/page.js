@@ -4,6 +4,8 @@ import Link from 'next/link'
 export default function animations() {
   return (
     <main className="bg-[url('/chessy.svg')] flex min-h-screen flex-col items-center justify-center p-10">
+<iframe className='w-6/6 lg:w-3/6 pb-10 rounded-xl aspect-video' src="https://www.youtube.com/embed/5YKbI5EmND8?si=TV2ugPw5FATy6bjG"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
+<iframe className='w-6/6 lg:w-3/6 pb-10 rounded-xl aspect-video' src="https://www.youtube.com/embed/yoyic2P8Ijo?si=4Qbqx5uOuskWAdRY"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
 <iframe className='w-6/6 lg:w-3/6 pb-10 rounded-xl aspect-video' src="https://www.youtube.com/embed/t_WQ8enK7Lg?si=cTejOtf6VQgrBFGi"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
 <iframe className='w-6/6 lg:w-3/6 pb-10 rounded-xl aspect-video' src="https://www.youtube.com/embed/jp2NhGqJzbM?si=wkYDO_NiI6SwoTVE"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
 <iframe className='w-6/6 lg:w-3/6 pb-10 rounded-xl aspect-video' src="https://www.youtube.com/embed/a7SkWyLhLbY?si=QTSiqoE6p7r3nao3"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
